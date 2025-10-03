@@ -1,5 +1,5 @@
 /******************************************************************************
-programa para somar 10 numeros com a estrutura de repetição while
+programa para somar 10 numeros com a estrutura de repetiÃ§Ã£o while
 autor: rayanne
 22 mar 2025
 *******************************************************************************/
@@ -12,10 +12,10 @@ int soma=0;
 int i;
 
 for (i=0; i<=10;i++) {
-    printf("Escreva o %dº numero: ", i+1);
+    printf("Escreva o %dÂº numero: ", i+1);
     scanf("%d", &numeros[i]);
 }
     soma = numeros[i];
-    printf("O resultado é %d", soma);
+    printf("O resultado Ã© %d", soma);
 
 } // fim do programa
