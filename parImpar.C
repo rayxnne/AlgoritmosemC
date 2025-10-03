@@ -30,3 +30,4 @@ void verificaResto(int x)
     else
     printf("O resultado eh %d, portanto o numero eh impar", divisao);
 }//fin da funcao
+
