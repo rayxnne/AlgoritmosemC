@@ -3,7 +3,7 @@
                             autor: rayanne
                         data: 18 ago 25  13:30
            algoritmo para verificar se um num eh par ou impar
-                      pelo resultado da divisao
+                      pelo resto da divisao
 
 *******************************************************************************/
 #include <stdio.h>
